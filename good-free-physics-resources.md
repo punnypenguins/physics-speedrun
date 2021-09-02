@@ -1,9 +1,9 @@
 # Books
 `Both online versions and free ebook/PDF downloads.`
 ### OpenStax
-**Algebra-based:**
+#### Algebra-based:
 - College Physics: https://openstax.org/details/books/college-physics 
-**Calculus-based:**
+#### Calculus-based:
 - University Physics I: https://openstax.org/details/books/university-physics-volume-1 
   - Mechanics
   - Sound
